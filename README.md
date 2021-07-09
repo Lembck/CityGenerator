@@ -1,6 +1,6 @@
 # CityGenerator
 Creates a name of a city that doesn't exist but looks believable
-To see it run in action for yourself visit llamastampede.com/City
+To see it run in action for yourself visit [my website](https://llamastampede.com/City)
 
 # How it works:
 
