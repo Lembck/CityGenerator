@@ -2,7 +2,7 @@
 Creates a name of a city that doesn't exist but looks believable
 To see it run in action for yourself visit llamastampede.com/City
 
-#How it works:
+# How it works:
 
 To make believable City names, I determined that:
  - letters should be in their usual proportions (such that t is more common than z)
@@ -21,7 +21,7 @@ When generating a new city name:
  - All word parts are joined together to form the new City name
  - Additionally, prefixes and suffixes like East or Pines are randomly added proportionally
 
-#Examples:
+# Examples:
 
 Jeltird (Norwalk)
 Borlsbarve (Huntsville)
